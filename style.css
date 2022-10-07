@@ -1,0 +1,197 @@
+body{
+    background-color:#FBF7EE;
+    font-family: 'Karla', sans-serif;
+}
+ .container{
+    width: 85%;
+    margin-right: auto;
+    margin-left: auto;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida  */
+    font-size: large;
+}
+header nav div h1{
+    color: darkblue;
+}
+header nav div ul {
+    list-style-type: none;
+    display: flex;   
+}
+header nav div ul li{
+    padding: 10px;
+}
+header nav div .sign{
+    height: 30px;
+    
+    border: none;
+    background-color: rgb(248, 245, 240)
+    
+    
+}
+header nav div .try{
+    height: 40px;
+    color: aliceblue;
+    background-color: darkblue;
+    border-radius: 3px;
+    border-color: darkblue;
+    
+    
+}
+section div h1{
+    color: darkblue;
+}
+section div .grey{
+    color: darkgray;
+}
+section div .entrer{
+    color: darkgray;
+    background-color: white;
+    border-radius: 4px;
+    border-color: darkgray;
+    border: solid 1px;
+    height: 30px;
+    width: 70%;
+}
+section div .try{
+    height: 30px;
+    color: aliceblue;
+    background-color: darkblue;
+    border-radius: 4px;
+    border-color: darkblue;
+}
+section div .barre{
+    color: darkgray;
+    margin-top: 15px;
+}
+section div .phto{
+    justify-content: end;
+    margin-top: 20px;
+    
+}
+section .description{
+    display: flex;
+}
+section .photo{
+    margin-left: 22%;
+    margin-top: 2%;
+    
+}
+section div.contenu{
+    margin-top: 08%;
+}
+section div .title{
+    font-size:xx-large;
+}
+section div .photo1{
+    border: 1px solid ;
+    border-color: darkgrey;
+    padding: 16px; 
+    border-radius: 5px;
+    background-color: white;
+    color:gray;
+
+    
+}
+
+ .centre{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    
+}
+section div.last1{
+
+ border: 1px solid ;
+    border-color: darkgrey;
+    padding: 16px; 
+    border-radius: 5px;
+    background-color:#fff3d9;
+    color: black;
+}
+section .startup{
+    color: white;
+    border-radius: 20px;
+    background-color: darkblue;
+    width: 40%;
+    height: 25px;
+    text-align: center;
+
+}
+
+
+
+section div .business{
+    color: white;
+    border-radius: 20px;
+    background-color: darkblue;
+    width: 40%;
+    height: 25px;
+    text-align: center;
+
+}
+
+section div.last4{
+    border: 1px solid ;
+    border-color: darkgrey;
+    padding: 16px; 
+    border-radius: 5px;
+    background-color: white;
+    height: 260px;
+    color: darkgray;
+}
+section div.last{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+section .tryforfree{
+
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid rgb(9, 9, 78);
+    color: rgb(47, 47, 185);
+    background-color:#fff3d9;
+    
+}
+section .tryfor2{
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid rgb(9, 9, 78);
+    color: rgb(47, 47, 185);
+    background-color:#fff3d9;
+    
+}
+section .entreprise{
+    
+    color: white;
+    border-radius: 20px;
+    background-color: darkblue;
+    width: 40%;
+    height: 25px;
+    text-align: center;
+}
+section .schedule{
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid rgb(9, 9, 78);
+    color: rgb(47, 47, 185);
+    background-color: #fff3d9;
+}
+.schedule:hover{
+    background-color: rgb(48, 61, 241);
+}
+section .made{
+    margin-top: 40px;
+    color: blue;
+}
+.contenu{
+    font-size: 15px;
+}
